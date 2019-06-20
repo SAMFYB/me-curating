@@ -14,6 +14,7 @@ A collection of miscellaneous lists for my own reference.
 - [EXCEL 151 Materials](https://github.com/SAMFYB/My-Lists/tree/master/EXCEL)
 - [Giant List of Mathematical Ideas](glist-math.md)
 - [Human Languages to Learn](langs.md)
+- [Diary Questions to Think About](diaryQs.md)
 
 ---
 
