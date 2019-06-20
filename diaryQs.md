@@ -30,3 +30,7 @@ Pick a few questions to write about each and every day.
 - Am I going through big changes in my life?
 - Am I going through big changes in my mental life?
 - Am I going through big changes in my study and work?
+- What's different in my life comparing to last week?
+- What's different in my life comparing to last month?
+- What's different in my life comparing to last semester?
+- What's different in my life comparing to last year?
