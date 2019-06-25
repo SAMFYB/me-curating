@@ -6,14 +6,14 @@
 - [ ] Base 12
 - [ ] Triangle of Power
 - [ ] Lunar Arithmetic
-- [x] Brachistochrone
+- [ ] Brachistochrone
 - [ ] Hamming Code (and other techniques of error-correcting code)
 - [ ] Proof of FLT with counting necklaces
 - [ ] The cyclic number 142857
 - [ ] Binary Cyclops number(s)
 - [ ] The Moving Sofa Problem
 - [ ] Euclid's straight edge and compass problem
-- [x] The dollar game (some graph theory stuff)
+- [ ] The dollar game (some graph theory stuff)
 - [ ] Every positive number is a sum of three palindromes
 - [ ] Sum of three cubes numbers
 - [ ] Circle inversion
@@ -26,8 +26,8 @@
 - [ ] Graceful Tree Problem
 - [ ] The trapped knight problem
 - [ ] Single-digit representation of natural numbers
-- [x] Superpermutation
-- [x] Card flipping game
+- [ ] Superpermutation
+- [ ] Card flipping game
 - [ ] Free the clones
 - [ ] Futurama theorem
 - [ ] Parity of permutations
@@ -38,13 +38,13 @@
 # Mathematical Puzzles through Visualization
 
 - [ ] Wrap a string around nails on the wall to hang a picture exactly
-- [x] Prove the formula for summation from 1 through n
+- [ ] Prove the formula for summation from 1 through n
 - [ ] Prove pi is between 3 and 4
-- [x] Prove Cassini's identity
+- [ ] Prove Cassini's identity
 - [ ] The Kakeya needle problem
 - [ ] Prove the square of the sum of consecutive naturals equals to the sum of their cubes
-- [x] Prove the formula for the sum of consecutive odd numbers
+- [ ] Prove the formula for the sum of consecutive odd numbers
 - [ ] Prove the square difference factorisation
 - [ ] A line that bisects the right angle of a right triangle also bisects a square erected on the hypotenuse.
 - [ ] Prove irrationality with triangular squares
-- [x] Gallons from Buckets riddle thru 60-degree billiard boards
+- [ ] Gallons from Buckets riddle thru 60-degree billiard boards
