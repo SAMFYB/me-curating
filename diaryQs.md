@@ -34,3 +34,5 @@ Pick a few questions to write about each and every day.
 - What's different in my life comparing to last month?
 - What's different in my life comparing to last semester?
 - What's different in my life comparing to last year?
+- Where have I been to today?
+- What is in my fridge?
