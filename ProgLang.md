@@ -1,8 +1,8 @@
 # Programming Languages to Learn
 
-- [ ] C++
+- [x] C++
 - [ ] Crystal
-- [ ] Dart
+- [x] Dart
 - [ ] Erlang
 - [ ] F#
 - [ ] Go
