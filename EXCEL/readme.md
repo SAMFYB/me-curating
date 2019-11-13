@@ -20,7 +20,7 @@
 
 - [Session 1](S19-handouts/1.pdf): Math, sets, logic
 - [Session 2 Recap](S19-handouts/2-recap.jpg) (Induction)
-- [Session 3](S19-handouts/3.pdf):
+- [Session 3](S19-handouts/3.pdf): Induction, strong induction
 - [Session 4](S19-handouts/4.pdf):
 - [Session 5](S19-handouts/5.pdf):
 - [Session 6](S19-handouts/6.pdf):
