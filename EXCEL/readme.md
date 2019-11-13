@@ -30,4 +30,4 @@
   - [Session 7 Pset C](S19-handouts/7-pset-C.pdf)
 - [Session 8](S19-handouts/8.pdf): Infinite sets, countability, CSB theorem
 - [Session 10 Notes](S19-handouts/10-notes.pdf): Number theory review, counting review, counting in two ways
-- [Session 11](S19-handouts/11.pdf):
+- [Session 11](S19-handouts/11.pdf): Counting fest
