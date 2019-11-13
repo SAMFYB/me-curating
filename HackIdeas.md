@@ -5,7 +5,7 @@
 - [ ] Realtime Ongoing Classes on Campus
 - [ ] ~~CLI Todo & Calendar~~
 - [ ] Commonly Useful Git Hooks
-- [ ] Query-based Python GUI Package
+- [ ] ~~Query-based Python GUI Package~~
 - [ ] Click-able Fast Scheduling
 - [ ] ~~Recognize Constellations~~
 - [ ] Make a Simple Shell
@@ -15,7 +15,7 @@
 - [ ] Maintain a Collection of Data Structures/Algorithms in (C, Python, Java)
 - [x] Work with Google Maps API
 - [x] Work with Here.com API
-- [ ] Work with Instagram API
+- [ ] ~~Work with Instagram API~~
 - [ ] Work with GitHub API
 - [ ] Work with Stack Exchange API
 - [ ] Work with D3.js/Vega
