@@ -4,4 +4,4 @@
 
 ## Fall 2018 Handouts
 
-- [Session 1](F18-Handouts/1.pdf)
+- [Session 1](F18-handouts/1.pdf)
