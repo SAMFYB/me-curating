@@ -2,8 +2,9 @@
 
 - [Interesting Math to Throw in](InterestingMath.md)
 
-## Fall 2018 Handouts
+## Fall 2018
 
+### Session Handouts
 - [Session 1](F18-handouts/1.pdf): Number sets, proof techniques, induction, logic, sets
 - [Session 2](F18-handouts/2.pdf): Sets and functions (Informal session)
 - [Session 3](F18-handouts/3.pdf): Functions, number theory
@@ -16,7 +17,9 @@
 - [Session 10](F18-handouts/10.pdf): Relation, probability
 - [Session 11](F18-handouts/11.pdf): Probability, inequalities, misc review
 
-## Spring 2019 Handouts
+## Spring 2019
+
+### Session Handouts
 
 - [Session 1](S19-handouts/1.pdf): Math, sets, logic
 - [Session 2 Recap](S19-handouts/2-recap.jpg) (Induction)
