@@ -25,9 +25,9 @@
 - [Session 5](S19-handouts/5.pdf): Relations, functions
 - [Session 6](S19-handouts/6.pdf): Functions, image and preimage, in/sur/bijection, cardinality
 - [Session 7](S19-handouts/7.pdf): Cardinality, finite/infinite sets
-- [Session 7 Pset A](S19-handouts/7-pset-A.pdf)
-- [Session 7 Pset B](S19-handouts/7-pset-B.pdf)
-- [Session 7 Pset C](S19-handouts/7-pset-C.pdf)
+  - [Session 7 Pset A](S19-handouts/7-pset-A.pdf)
+  - [Session 7 Pset B](S19-handouts/7-pset-B.pdf)
+  - [Session 7 Pset C](S19-handouts/7-pset-C.pdf)
 - [Session 8](S19-handouts/8.pdf): Infinite sets, countability, CSB theorem
-- [Session 10 Notes](S19-handouts/10-notes.pdf):
+- [Session 10 Notes](S19-handouts/10-notes.pdf): Number theory review, counting review, counting in two ways
 - [Session 11](S19-handouts/11.pdf):
