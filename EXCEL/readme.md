@@ -12,6 +12,6 @@
 - [Session 6](F18-handouts/6.pdf): Injectivity, surjectivity, bijectivity, inverses
 - [Session 7](F18-handouts/7.pdf): Counting techniques, principles, infinite sets
 - [Session 8](F18-handouts/8.pdf): Counting principles, counting in two ways, infinite sets
-- [Session 9](F18-handouts/9.pdf):
+- [Session 9](F18-handouts/9.pdf): Counting, relations (Make a handout activity)
 - [Session 10](F18-handouts/10.pdf):
 - [Session 11](F18-handouts/11.pdf):
