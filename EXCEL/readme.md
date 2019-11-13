@@ -24,7 +24,7 @@
 - [Session 4](S19-handouts/4.pdf): Review induction, relations
 - [Session 5](S19-handouts/5.pdf): Relations, functions
 - [Session 6](S19-handouts/6.pdf): Functions, image and preimage, in/sur/bijection, cardinality
-- [Session 7](S19-handouts/7.pdf):
+- [Session 7](S19-handouts/7.pdf): Cardinality, finite/infinite sets
 - [Session 7 Pset A](S19-handouts/7-pset-A.pdf):
 - [Session 7 Pset B](S19-handouts/7-pset-B.pdf):
 - [Session 7 Pset C](S19-handouts/7-pset-C.pdf):
