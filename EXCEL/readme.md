@@ -10,7 +10,7 @@
 - [Session 4](F18-handouts/4.pdf): Number theory misc topics
 - [Session 5](F18-handouts/5.pdf): Number theory, modular arithmetic, functions
 - [Session 6](F18-handouts/6.pdf): Injectivity, surjectivity, bijectivity, inverses
-- [Session 7](F18-handouts/7.pdf):
+- [Session 7](F18-handouts/7.pdf): Counting techniques, principles, infinite sets
 - [Session 8](F18-handouts/8.pdf):
 - [Session 9](F18-handouts/9.pdf):
 - [Session 10](F18-handouts/10.pdf):
