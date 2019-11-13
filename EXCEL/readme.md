@@ -22,7 +22,7 @@
 - [Session 2 Recap](S19-handouts/2-recap.jpg) (Induction)
 - [Session 3](S19-handouts/3.pdf): Induction, strong induction
 - [Session 4](S19-handouts/4.pdf): Review induction, relations
-- [Session 5](S19-handouts/5.pdf):
+- [Session 5](S19-handouts/5.pdf): Relations, functions
 - [Session 6](S19-handouts/6.pdf):
 - [Session 7](S19-handouts/7.pdf):
 - [Session 7 Pset A](S19-handouts/7-pset-A.pdf):
