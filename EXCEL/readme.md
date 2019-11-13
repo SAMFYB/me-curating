@@ -19,7 +19,7 @@
 ## Spring 2019 Handouts
 
 - [Session 1](S19-handouts/1.pdf): Math, sets, logic
-- [Session 2 Recap](S19-handouts/2-recap.pdf):
+- [Session 2 Recap](S19-handouts/2-recap.jpg)
 - [Session 3](S19-handouts/3.pdf):
 - [Session 4](S19-handouts/4.pdf):
 - [Session 5](S19-handouts/5.pdf):
