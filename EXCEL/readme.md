@@ -5,7 +5,7 @@
 ## Fall 2018 Handouts
 
 - [Session 1](F18-handouts/1.pdf): Number sets, proof techniques, induction, logic, sets
-- [Session 2](F18-handouts/2.pdf): Sets and functions
+- [Session 2](F18-handouts/2.pdf): Sets and functions (Informal session)
 - [Session 3](F18-handouts/3.pdf): Functions, number theory
 - [Session 4](F18-handouts/4.pdf): Number theory misc topics
 - [Session 5](F18-handouts/5.pdf): Number theory, modular arithmetic, functions
