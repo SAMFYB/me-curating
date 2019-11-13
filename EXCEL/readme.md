@@ -6,7 +6,7 @@
 
 - [Session 1](F18-handouts/1.pdf): Number sets, proof techniques, induction, logic, sets
 - [Session 2](F18-handouts/2.pdf): Sets and functions
-- [Session 3](F18-handouts/3.pdf):
+- [Session 3](F18-handouts/3.pdf): Functions, number theory
 - [Session 4](F18-handouts/4.pdf):
 - [Session 5](F18-handouts/5.pdf):
 - [Session 6](F18-handouts/6.pdf):
