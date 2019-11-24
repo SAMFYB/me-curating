@@ -3,7 +3,6 @@
 ### Vanilla
 
 - [Programming Languages to Learn](proglang.md)
-- [Technologies to Learn](techs.md)
 - [Human Languages to Learn](langs.md)
 - [Courses to Consider](courses.md)
 - [15213 Midterm Review Notes](213midreview.md)
