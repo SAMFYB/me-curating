@@ -5,6 +5,7 @@
 - [Programming Languages to Learn](lib/proglang.md)
 - [Human Languages to Learn](lib/langs.md)
 - [Courses to Consider](lib/courses.md)
+- [Security and Privacy on the Web](lib/secprivweb.md)
 
 ### Vanilla - Good Old, Reliable, Accessible
 
