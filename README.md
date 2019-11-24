@@ -8,7 +8,7 @@
 - [Courses to Consider](courses.md)
 - [15213 Midterm Review Notes](213midreview.md)
 - [57173 Word List](57173words.md)
-- [EXCEL Concepts Materials](excel/readme.md)
+- [EXCEL Concepts Materials](EXCEL/readme.md)
 
 ### Chocolate
 
