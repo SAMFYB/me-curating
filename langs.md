@@ -10,3 +10,4 @@
 - [ ] Korean
 - [ ] Latin
 - [ ] Hebrew
+- [ ] Russian
