@@ -1,6 +1,4 @@
-# My Lists
-
-A collection of miscellaneous lists for my own reference.
+# Curating the things I'm curating
 
 - [Programming Languages to Learn](ProgLang.md)
 - [Favorite xkcd Comics](xkcd.md)
@@ -15,15 +13,3 @@ A collection of miscellaneous lists for my own reference.
 - [Giant List of Mathematical Ideas](glist-math.md)
 - [Human Languages to Learn](langs.md)
 - [Diary Questions to Think About](diaryQs.md)
-
----
-
-## Beautify the Markdown
-
-Unfortunately, GitHub Markdown has many limitations. Despite basic text decorations like bold and italic, there is no way to colorize the text or change typography and font size arbitrarily. But, I'm glad to have found out the markdown documents are rendered as an HTML element with all the text as is. This means we can apply arbitrary JavaScript to change the styling of the text! The easiest way to achieve this is through browser extensions (in my case, Firefox add-on). So...
-
-__BEFORE:__ <img src='assets/imgs/org.png' width='40%' /> __AFTER:__ <img src='assets/imgs/btf.png' width='40%' />
-
-And even fake progress bar! (just like GitHub Markdown fake check-boxes)
-
-__BEFORE:__ <img src='assets/imgs/bar-org.png' width='30%' /> __AFTER:__ <img src='assets/imgs/bar-btf.png' width='30%' />
