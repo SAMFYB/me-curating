@@ -1,15 +1,23 @@
 # Curating the things I'm curating
 
-- [Programming Languages to Learn](ProgLang.md)
-- [Favorite xkcd Comics](xkcd.md)
-- [Hack Ideas](HackIdeas.md)
-- [Technologies to Learn](Techs.md)
-- [Courses to Consider](Courses.md)
-- [57173 Word List](57173-Words.md)
-- [Personal Favorite Movies](FavMovies.md)
-- [Random Rambling of Mathematics](MathIdeas.md)
-- [15213 Midterm Review](213-Mid-Review.md)
-- [EXCEL 151 Materials](https://github.com/SAMFYB/My-Lists/tree/master/EXCEL)
-- [Giant List of Mathematical Ideas](glist-math.md)
+### Vanilla
+
+- [Programming Languages to Learn](progland.md)
+- [Technologies to Learn](techs.md)
 - [Human Languages to Learn](langs.md)
-- [Diary Questions to Think About](diaryQs.md)
+- [Courses to Consider](courses.md)
+- [15213 Midterm Review Notes](213midreview.md)
+- [57173 Word List](57173words.md)
+- [EXCEL Concepts Materials](excel/readme.md)
+
+### Chocolate
+
+- [Favorite xkcd Comics](xkcd.md)
+- [Favorite Movies](movies.md)
+
+### Cotton Candy
+
+- [Hack Ideas](hackideas.md)
+- [Random Rambling of Mathematics](randommathideas.md)
+- [Giant List of Mathematical Ideas](giantlistmathideas.md)
+- [Diary Questions to Think About](diaryqs.md)
