@@ -10,7 +10,7 @@
 
 - [15213 Midterm Review Notes](lib/213midreview.md)
 - [57173 Word List](lib/57173words.md)
-- [EXCEL Concepts Materials](EXCEL/readme.md)
+- [EXCEL Concepts Materials](lib/EXCEL/readme.md)
 
 ### Chocolate - Individually Personalized
 
