@@ -2,7 +2,7 @@
 
 ### Vanilla
 
-- [Programming Languages to Learn](progland.md)
+- [Programming Languages to Learn](proglang.md)
 - [Technologies to Learn](techs.md)
 - [Human Languages to Learn](langs.md)
 - [Courses to Consider](courses.md)
