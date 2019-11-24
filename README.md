@@ -18,6 +18,5 @@
 ### Cotton Candy
 
 - [Hack Ideas](hackideas.md)
-- [Random Rambling of Mathematics](randommathideas.md)
 - [Giant List of Mathematical Ideas](giantlistmathideas.md)
 - [Diary Questions to Think About](diaryqs.md)
