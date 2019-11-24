@@ -1,36 +1,31 @@
 # Hack Ideas (& general CS project ideas)
 
-- [ ] An iOS App
-- [ ] Tag-able Folders (File System)
-- [ ] Realtime Ongoing Classes on Campus
-- [ ] ~~CLI Todo & Calendar~~
-- [ ] Commonly Useful Git Hooks
-- [ ] ~~Query-based Python GUI Package~~
-- [ ] Click-able Fast Scheduling
-- [ ] ~~Recognize Constellations~~
-- [ ] Make a Simple Shell
-- [ ] Make a Simple Compiler
-- [ ] Make a Simple OS
-- [ ] ~~Extend Tagging System here~~
-- [ ] Maintain a Collection of Data Structures/Algorithms in (C, Python, Java)
+- [ ] Any iOS app
+- [ ] Tag-centric file organization
+- [ ] Real-time ongoing classes on campus
+- [ ] Command-line to-do and calendar utility
+- [ ] Commonly useful Git hooks
+- [ ] Query-based Python GUI package
+- [ ] Click-able fast scheduling
+- [ ] Recognize constellation patterns
+- [ ] A simple shell
+- [ ] A collection of data structures and algorithms in (C/C++, Python, Java, JavaScript, etc.)
 - [x] Work with Google Maps API
-- [x] Work with Here.com API
-- [ ] ~~Work with Instagram API~~
+- [ ] Work with Here.com API
+- [ ] Work with Instagram API
 - [ ] Work with GitHub API
 - [ ] Work with Stack Exchange API
 - [ ] Work with D3.js/Vega
-- [ ] Realtime Easy Screenshare
-- [ ] Insert ASCII Art from Image into Source File
-- [ ] (game) navigating maze through sound guides
-- [ ] ~~Moodboards and collection management (like https://electronjs.org/apps/collectie)~~
-- [ ] ~~Issue and task management (like https://www.gitkraken.com/)~~
-- [ ] ~~Collection support clipboard (like https://electronjs.org/apps/1clipboard)~~
+- [ ] Real-time easy entire-screen sharing
+- [ ] Insert ASCII art from image into source files
+- [ ] A game to navigate maze through audio guidance
+- [ ] Moodboards and collection management (like https://electronjs.org/apps/collectie)
+- [ ] Issue and task management (like https://www.gitkraken.com/)
+- [ ] Collection support clipboard (like https://electronjs.org/apps/1clipboard)
 - [ ] A markdown editor, or general code editor, or general clean editor
-- [ ] ~~Common image processing toolkit with web technology (i.e. Electron, but maybe not)~~
-- [ ] ~~Note taking app with web technology (like [Opus](https://electronjs.org/apps/opus) and [Deer](https://electronjs.org/apps/deer))~~
+- [ ] A note-taking app with web technology (like https://electronjs.org/apps/opus and https://electronjs.org/apps/deer)
 - [ ] Desktop timer app (like https://electronjs.org/apps/tiny-timer)
-- [ ] ~~Collection support code snippets (like https://electronjs.org/apps/cacher)~~
+- [ ] A collection management that supports code snippets (like https://electronjs.org/apps/cacher)
 - [ ] YouTube video & music desktop app (like https://electronjs.org/apps/youtube-music-desktop-app)
-- [ ] Make a platform for doing amazing race for EXCELs
-- [ ] Make a multi-tasking platform - integrate everything into one framework application
-- [ ] GPS
+- [ ] A platform for doing amazing race and other activities for EXCEL sessions
+- [ ] A multi-tasking platform integrating apps into one framework application
