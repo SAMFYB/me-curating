@@ -23,7 +23,7 @@
 - [ ] Ramsey theory
 - [ ] Tusi couple
 - [ ] de Bruijn Sequence
-- [ ] Graceful Tree Problem
+- [x] Graceful Tree Problem
 - [ ] The trapped knight problem
 - [ ] Single-digit representation of natural numbers
 - [ ] Superpermutation
