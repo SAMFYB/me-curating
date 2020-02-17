@@ -46,6 +46,6 @@
 - [ ] Prove the formula for the sum of consecutive odd numbers
 - [ ] Prove the square difference factorisation
 - [ ] A line that bisects the right angle of a right triangle also bisects a square erected on the hypotenuse.
-- [ ] Prove irrationality with triangular squares
+- [x] Prove irrationality with triangular squares
 - [ ] Gallons from Buckets riddle thru 60-degree billiard boards
 - [ ] Fermat's theorem on sums of two squares and Zagier's one-sentence proof
