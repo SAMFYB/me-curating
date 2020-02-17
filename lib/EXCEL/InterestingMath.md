@@ -32,13 +32,13 @@
 - [ ] Futurama theorem
 - [ ] Parity of permutations
 - [ ] Parabola multiplication and primes
-- [ ] Thue-Morse sequence
+- [x] Thue-Morse sequence
 - [ ] Farey sum of fractions
 
 # Mathematical Puzzles through Visualization
 
 - [ ] Wrap a string around nails on the wall to hang a picture exactly
-- [ ] Prove the formula for summation from 1 through n
+- [x] Prove the formula for summation from 1 through n
 - [x] Prove pi is between 3 and 4
 - [ ] Prove Cassini's identity
 - [ ] The Kakeya needle problem
