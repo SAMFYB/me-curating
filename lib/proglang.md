@@ -11,8 +11,9 @@
 - [ ] Kotlin
 - [ ] MATLAB
 - [ ] Objective-C
+- [x] OCaml
 - [ ] Perl
-- [ ] R
+- [x] R
 - [ ] Rust
 - [ ] Scala
 - [ ] Scheme
