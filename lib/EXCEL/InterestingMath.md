@@ -2,7 +2,7 @@
 
 ### Concepts, Problems, Topics, Theories, Discoveries
 
-- [x] Golomb Sequence
+- [ ] Golomb Sequence
 - [ ] Base 12
 - [ ] Triangle of Power
 - [ ] Lunar Arithmetic
@@ -23,7 +23,7 @@
 - [ ] Ramsey theory
 - [ ] Tusi couple
 - [ ] de Bruijn Sequence
-- [x] Graceful Tree Problem
+- [ ] Graceful Tree Problem
 - [ ] The trapped knight problem
 - [ ] Single-digit representation of natural numbers
 - [ ] Superpermutation
@@ -32,20 +32,20 @@
 - [ ] Futurama theorem
 - [ ] Parity of permutations
 - [ ] Parabola multiplication and primes
-- [x] Thue-Morse sequence
+- [ ] Thue-Morse sequence
 - [ ] Farey sum of fractions
 
 # Mathematical Puzzles through Visualization
 
 - [ ] Wrap a string around nails on the wall to hang a picture exactly
-- [x] Prove the formula for summation from 1 through n
-- [x] Prove pi is between 3 and 4
+- [ ] Prove the formula for summation from 1 through n
+- [ ] Prove pi is between 3 and 4
 - [ ] Prove Cassini's identity
 - [ ] The Kakeya needle problem
 - [ ] Prove the square of the sum of consecutive naturals equals to the sum of their cubes
 - [ ] Prove the formula for the sum of consecutive odd numbers
 - [ ] Prove the square difference factorisation
 - [ ] A line that bisects the right angle of a right triangle also bisects a square erected on the hypotenuse.
-- [x] Prove irrationality with triangular squares
+- [ ] Prove irrationality with triangular squares
 - [ ] Gallons from Buckets riddle thru 60-degree billiard boards
-- [x] Fermat's theorem on sums of two squares and Zagier's one-sentence proof
+- [ ] Fermat's theorem on sums of two squares and Zagier's one-sentence proof
