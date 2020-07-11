@@ -51,3 +51,19 @@
 - [Session 10](F19-handouts/10.pdf): Counting review, inequalities
 - [Session 11](F19-handouts/11.pdf): Probability
 - [Session 12](F19-handouts/12.pdf): Final exam review
+
+## Spring 2020
+
+### Session Handouts
+
+- [Session 1](S20-handouts/1.pdf): Sets, symbolic logic
+- [Session 2 Version A](S20-handouts/2A.pdf): Random fun problems, basic induction
+- [Session 2 Version B](S20-handouts/2B.pdf): Sets, induction, random fun problems
+- [Session 3](S20-handouts/3.pdf): Induction
+- [Session 4](S20-handouts/4.pdf): Relations
+- [Session 5](S20-handouts/5.pdf): Relations, functions
+- [Session 6](S20-handouts/6.pdf): Countability
+- [Session 7 w/ Solutions](S20-handouts/7-sol.pdf): Countability, number theory
+- [Session 8 w/ Solutions](S20-handouts/8.pdf): Number theory
+- [Session 9 w/ Solutions](S20-handouts/9.pdf): Number theory, counting
+
