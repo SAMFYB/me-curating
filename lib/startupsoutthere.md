@@ -19,3 +19,4 @@
 - [Index](https://www.indexventures.com/companies/)
 - [Founders Fund](https://foundersfund.com/portfolio/)
 - [IVP](https://www.ivp.com/portfolio/)
+- [GGVC](https://www.ggvc.com/companies/)
