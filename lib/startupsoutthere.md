@@ -12,3 +12,4 @@
 - [Spark](https://www.sparkcapital.com/companies)
 - [M12](https://m12.vc/companies/)
 - [Rakuten Capital](https://capital.rakuten.com/)
+- [Intel Capital](https://www.intel.com/content/www/us/en/intel-capital/portfolio.html)
