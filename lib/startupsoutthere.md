@@ -10,3 +10,4 @@
 - [Venrock](https://www.venrock.com/portfolio/)
 - [First Round](https://firstround.com/companies/)
 - [Spark](https://www.sparkcapital.com/companies)
+- [M12](https://m12.vc/companies/)
