@@ -20,3 +20,4 @@
 - [Founders Fund](https://foundersfund.com/portfolio/)
 - [IVP](https://www.ivp.com/portfolio/)
 - [GGVC](https://www.ggvc.com/companies/)
+- [Y](https://www.ycombinator.com/companies/)
