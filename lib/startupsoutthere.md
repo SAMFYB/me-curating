@@ -18,3 +18,4 @@
 - [Khosla](https://www.khoslaventures.com/portfolio/all-companies)
 - [Index](https://www.indexventures.com/companies/)
 - [Founders Fund](https://foundersfund.com/portfolio/)
+- [IVP](https://www.ivp.com/portfolio/)
