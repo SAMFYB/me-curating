@@ -14,3 +14,4 @@
 - [Rakuten Capital](https://capital.rakuten.com/)
 - [Intel Capital](https://www.intel.com/content/www/us/en/intel-capital/portfolio.html)
 - [Accel](https://www.accel.com/companies)
+- [Bessemer](https://www.bvp.com/companies)
