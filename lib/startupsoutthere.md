@@ -16,3 +16,4 @@
 - [Accel](https://www.accel.com/companies)
 - [Bessemer](https://www.bvp.com/companies)
 - [Khosla](https://www.khoslaventures.com/portfolio/all-companies)
+- [Index](https://www.indexventures.com/companies/)
