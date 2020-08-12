@@ -11,9 +11,9 @@
 - [ ] A simple shell
 - [ ] A collection of data structures and algorithms in (C/C++, Python, Java, JavaScript, etc.)
 - [x] Work with Google Maps API
-- [ ] Work with Here.com API
+- [x] Work with Here.com API
 - [ ] Work with Instagram API
-- [ ] Work with GitHub API
+- [x] Work with GitHub API
 - [ ] Work with Stack Exchange API
 - [ ] Work with D3.js/Vega
 - [ ] Real-time easy entire-screen sharing
