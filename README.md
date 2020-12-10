@@ -1,4 +1,4 @@
-# Curating the things I'm curating
+# Stuff
 
 ### Mint - Refreshingly New and Unprecedented
 
