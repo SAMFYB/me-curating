@@ -6,3 +6,5 @@
 | [42 Technologies](https://www.42technologies.com/) | [Software Engineer](https://angel.co/company/42/jobs/647186-software-engineer-full-time-remote) | $60k – $140k • 0.1% – 0.25% | E-commerce | No visa |
 | [Benchling](https://www.benchling.com/) | [Software Engineer, New Grad 2020 & 2021](https://angel.co/company/benchling/jobs/941270-software-engineer-new-grad-2020-2021) | N/A | Bioinformatics | No visa |
 | [Desmos](https://www.desmos.com/) | [Software Engineer](https://angel.co/company/desmos/jobs/1274170-software-engineer) | $105k – $160k AngelList Est. | Education | No visa |
+| [June](https://juneoven.com/) | [Server Engineer](https://angel.co/company/june/jobs/1274505-server-engineer) | $100k – $155k AngelList Est. | Smart Home |
+| [Serverless](https://www.serverless.com/) | [Software Engineer - Serverless Cloud](https://angel.co/company/serverless-inc/jobs/1253459-software-engineer-serverless-cloud) | $105k – $145k AngelList Est. | Software | No visa |
