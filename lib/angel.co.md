@@ -23,6 +23,6 @@
 | [Brex](https://www.brex.com/) | [Software Engineer, Developer Productivity (Remote)](https://angel.co/company/brex/jobs/704247-software-engineer-developer-productivity-remote) | $95k – $140k Est. | Fintech |
 || [Software Engineer, Infrastructure (Remote)](https://angel.co/company/brex/jobs/704248-software-engineer-infrastructure-remote) | $115k – $165k Est. ||
 || [Software Engineer, Product (Remote)](https://angel.co/company/brex/jobs/1045040-software-engineer-product-remote) | $95k – $140k Est. ||
-| [Strava](https://www.strava.com/) | [Software Engineer, Full-stack Web, Competition and Community Team](https://angel.co/company/strava/jobs/1202061-software-engineer-full-stack-web-competition-and-community-team) | $105k – $145k Est. | Fitness |
+| [Strava](https://www.strava.com/) | [Software Engineer, Full-stack Web](https://angel.co/company/strava/jobs/1202061-software-engineer-full-stack-web-competition-and-community-team) | $105k – $145k Est. | Fitness |
 || [Software Engineer, Server, Places Team](https://angel.co/company/strava/jobs/1204374-software-engineer-server-places-team) | $90k – $140k Est. ||
 || [Software Engineer, Server, Trust & Safety Team](https://angel.co/company/strava/jobs/1237198-software-engineer-server-trust-safety-team) | $90k – $140k Est. ||
