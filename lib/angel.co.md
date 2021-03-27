@@ -11,3 +11,5 @@
 | [NerdWallet](https://www.nerdwallet.com/) | [Software Engineer (Fundera)](https://angel.co/company/nerdwallet/jobs/1246787-software-engineer-fundera) | $105k – $145k AngelList Est. | Fintech |
 | [SingleStore](https://www.singlestore.com/) | [Software Engineer, University Graduate](https://angel.co/company/singlestore/jobs/972405-software-engineer-university-graduate) | $105k – $160k AngelList Est. | Software | No visa |
 | [Pawp](https://pawp.com/) | [Software Engineer, Backend](https://angel.co/company/pawp-pet/jobs/1271805-software-engineer-backend) | $90k – $140k AngelList Est. | Pets |
+| [IEX](https://iextrading.com/) | [Software Engineer](https://angel.co/company/iex/jobs/1254332-software-engineer) | $105k – $145k AngelList Est. | Fintech | No visa |
+| [Opendoor](https://www.opendoor.com/) | [Software Engineer](https://angel.co/company/opendoor/jobs/1253241-software-engineer) | $105k – $145k AngelList Est. | Fintech | No visa |
