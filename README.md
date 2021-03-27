@@ -6,6 +6,7 @@
 - [Human Languages to Learn](lib/langs.md)
 - [Courses to Consider](lib/courses.md)
 - [Start-ups in the Wild](lib/startupsoutthere.md)
+- [AngelList Jobs](lib/angel.co.md)
 
 ### Vanilla - Good Old, Reliable, Accessible
 
