@@ -20,3 +20,6 @@
 || [Systems Software Engineer, Safety](https://angel.co/company/argo-ai/jobs/1268595-systems-software-engineer-safety) | $105k – $145k Est. ||
 || [Software Engineer, Front End, Map Tools](https://angel.co/company/argo-ai/jobs/1268609-software-engineer-front-end-map-tools) | $110k – $135k Est. ||
 | [Hiro Systems PBC](https://www.hiro.so/) | [Full Stack Engineer](https://angel.co/company/hirosystems/jobs/1244959-full-stack-engineer) | $115k – $175k • 0.06% – 0.12% | Blockchain |
+| [Brex](https://www.brex.com/) | [Software Engineer, Developer Productivity (Remote)](https://angel.co/company/brex/jobs/704247-software-engineer-developer-productivity-remote) | $95k – $140k Est. | Fintech |
+|| [Software Engineer, Infrastructure (Remote)](https://angel.co/company/brex/jobs/704248-software-engineer-infrastructure-remote) | $115k – $165k Est. ||
+|| [Software Engineer, Product (Remote)](https://angel.co/company/brex/jobs/1045040-software-engineer-product-remote) | $95k – $140k Est. ||
