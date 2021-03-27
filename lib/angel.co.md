@@ -33,3 +33,6 @@
 || [Backend Engineer (Brokerage Operations)](https://angel.co/company/commonstock/jobs/1271664-backend-engineer-brokerage-operations) | $100k – $150k Est. 🔸 ||
 | [Smile Identity](https://www.smileidentity.com/) | [Software Engineer](https://angel.co/company/smile-identity/jobs/1241018-software-engineer) | $95k – $140k Est. | Software |
 | [Trellis](https://angel.co/company/trellisconnect) | [Software Engineer](https://angel.co/company/trellisconnect/jobs/1243510-software-engineer) | $105k – $160k Est. 🔸 | Data |
+| [Deliverr](https://deliverr.com/) | [Front-End Engineer (Remote)](https://angel.co/company/deliverr/jobs/668797-front-end-engineer-remote) | $125k – $175k 🔸 | E-commerce |
+|| [Devops Engineer: Infra/Productivity (Remote)](https://angel.co/company/deliverr/jobs/1024313-devops-engineer-infra-productivity-remote) | $115k – $155k Est. 🔸 ||
+|| [Backend Engineer (Remote)](https://angel.co/company/deliverr/jobs/1155905-backend-engineer-remote) | $125k – $185k 🔸 ||
