@@ -45,4 +45,4 @@
 || [Software Developer](https://angel.co/company/circleci/jobs/1260869-software-developer) | $100k – $150k Est. 🔸 ||
 | [Secureframe](https://secureframe.com/) | [Software Engineer](https://angel.co/company/secureframe/jobs/964876-software-engineer) | $120k – $200k | Software |
 | [BuildZoom](https://www.buildzoom.com/) | [Software Engineer](https://angel.co/company/buildzoom/jobs/1255262-software-engineer) | $105k – $160k Est. 🔸 | Smart Home |
-| [AngelList](https://angel.co/) | [Venture | Senior Software Engineer](https://angel.co/company/angellist/jobs/852111-venture-senior-software-engineer) | $135k – $200k 🔸 | Startups |
+| [AngelList](https://angel.co/) | [Venture \| Senior Software Engineer](https://angel.co/company/angellist/jobs/852111-venture-senior-software-engineer) | $135k – $200k 🔸 | Startups |
