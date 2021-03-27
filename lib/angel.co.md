@@ -39,3 +39,5 @@
 | [Clover Health](https://www.cloverhealth.com/en/) | [Healthcare Data Engineer](https://angel.co/company/clover-health/jobs/1020494-healthcare-data-engineer) | N/A 🔸 | Healthcare |
 || [Software Engineer](https://angel.co/company/clover-health/jobs/1092728-software-engineer) | $105k – $160k Est. ||
 | [Talkdoc](https://www.talkdoc.com/) | [Software Engineer - Full Stack - Remote](https://angel.co/company/talkdoc/jobs/388351-software-engineer-full-stack-remote) | $85k – $135k • 0.75% – 2.25% 🔸 | Healthcare |
+| [GitLab](https://about.gitlab.com/) | [Backend Engineer, Database](https://angel.co/company/gitlab/jobs/1203451-backend-engineer-database) | $100k – $155k Est. 🔸 | Software |
+|| [Fullstack Engineer: APM (Incubation Engineering)](https://angel.co/company/gitlab/jobs/1227813-fullstack-engineer-apm-incubation-engineering) | $105k – $160k Est. 🔸 ||
