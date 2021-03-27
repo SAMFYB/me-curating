@@ -41,3 +41,5 @@
 | [Talkdoc](https://www.talkdoc.com/) | [Software Engineer - Full Stack - Remote](https://angel.co/company/talkdoc/jobs/388351-software-engineer-full-stack-remote) | $85k – $135k • 0.75% – 2.25% 🔸 | Healthcare |
 | [GitLab](https://about.gitlab.com/) | [Backend Engineer, Database](https://angel.co/company/gitlab/jobs/1203451-backend-engineer-database) | $100k – $155k Est. 🔸 | Software |
 || [Fullstack Engineer: APM (Incubation Engineering)](https://angel.co/company/gitlab/jobs/1227813-fullstack-engineer-apm-incubation-engineering) | $105k – $160k Est. 🔸 ||
+| [CircleCI](https://circleci.com/) | [Software Engineer, Execution](https://angel.co/company/circleci/jobs/1041500-software-engineer-execution) | $100k – $150k Est. 🔸 | Software |
+|| [Software Developer](https://angel.co/company/circleci/jobs/1260869-software-developer) | $100k – $150k Est. 🔸 ||
