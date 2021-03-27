@@ -26,3 +26,9 @@
 | [Strava](https://www.strava.com/) | [Software Engineer, Full-stack Web](https://angel.co/company/strava/jobs/1202061-software-engineer-full-stack-web-competition-and-community-team) | $105k – $145k Est. | Fitness |
 || [Software Engineer, Server, Places Team](https://angel.co/company/strava/jobs/1204374-software-engineer-server-places-team) | $90k – $140k Est. ||
 || [Software Engineer, Server, Trust & Safety Team](https://angel.co/company/strava/jobs/1237198-software-engineer-server-trust-safety-team) | $90k – $140k Est. ||
+| [Commonstock](https://www.commonstock.com/) | [Backend Engineer (APIs)](https://angel.co/company/commonstock/jobs/1254938-backend-engineer-apis) | $100k – $150k Est. 🔸 | Fintech |
+|| [Backend Engineer (Product)](https://angel.co/company/commonstock/jobs/1271661-backend-engineer-product) | $100k – $150k Est. 🔸 ||
+|| [Backend Engineer (Infrastructure)](https://angel.co/company/commonstock/jobs/1271662-backend-engineer-infrastructure) | $100k – $150k Est. 🔸 ||
+|| [Backend Engineer (Financial Products)](https://angel.co/company/commonstock/jobs/1271663-backend-engineer-financial-products) | $100k – $150k Est. 🔸 ||
+|| [Backend Engineer (Brokerage Operations)](https://angel.co/company/commonstock/jobs/1271664-backend-engineer-brokerage-operations) | $100k – $150k Est. 🔸 ||
+| [Smile Identity](https://www.smileidentity.com/) | [Software Engineer](https://angel.co/company/smile-identity/jobs/1241018-software-engineer) | $95k – $140k Est. | Software |
