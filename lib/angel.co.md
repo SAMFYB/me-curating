@@ -8,3 +8,5 @@
 | [Desmos](https://www.desmos.com/) | [Software Engineer](https://angel.co/company/desmos/jobs/1274170-software-engineer) | $105k – $160k AngelList Est. | Education | No visa |
 | [June](https://juneoven.com/) | [Server Engineer](https://angel.co/company/june/jobs/1274505-server-engineer) | $100k – $155k AngelList Est. | Smart Home |
 | [Serverless](https://www.serverless.com/) | [Software Engineer - Serverless Cloud](https://angel.co/company/serverless-inc/jobs/1253459-software-engineer-serverless-cloud) | $105k – $145k AngelList Est. | Software | No visa |
+| [NerdWallet](https://www.nerdwallet.com/) | [Software Engineer (Fundera)](https://angel.co/company/nerdwallet/jobs/1246787-software-engineer-fundera) | $105k – $145k AngelList Est. | Fintech |
+| [SingleStore](https://www.singlestore.com/) | [Software Engineer, University Graduate](https://angel.co/company/singlestore/jobs/972405-software-engineer-university-graduate) | $105k – $160k AngelList Est. | Software | No visa |
