@@ -19,3 +19,4 @@
 || [Software Engineer, Software Factory](https://angel.co/company/argo-ai/jobs/1265789-software-engineer-software-factory) | $105k – $145k Est. ||
 || [Systems Software Engineer, Safety](https://angel.co/company/argo-ai/jobs/1268595-systems-software-engineer-safety) | $105k – $145k Est. ||
 || [Software Engineer, Front End, Map Tools](https://angel.co/company/argo-ai/jobs/1268609-software-engineer-front-end-map-tools) | $110k – $135k Est. ||
+| [Hiro Systems PBC](https://www.hiro.so/) | [Full Stack Engineer](https://angel.co/company/hirosystems/jobs/1244959-full-stack-engineer) | $115k – $175k • 0.06% – 0.12% | Blockchain |
