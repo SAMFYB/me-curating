@@ -43,3 +43,4 @@
 || [Fullstack Engineer: APM (Incubation Engineering)](https://angel.co/company/gitlab/jobs/1227813-fullstack-engineer-apm-incubation-engineering) | $105k – $160k Est. 🔸 ||
 | [CircleCI](https://circleci.com/) | [Software Engineer, Execution](https://angel.co/company/circleci/jobs/1041500-software-engineer-execution) | $100k – $150k Est. 🔸 | Software |
 || [Software Developer](https://angel.co/company/circleci/jobs/1260869-software-developer) | $100k – $150k Est. 🔸 ||
+| [Secureframe](https://secureframe.com/) | [Software Engineer](https://angel.co/company/secureframe/jobs/964876-software-engineer) | $120k – $200k | Software |
