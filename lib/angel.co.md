@@ -32,3 +32,4 @@
 || [Backend Engineer (Financial Products)](https://angel.co/company/commonstock/jobs/1271663-backend-engineer-financial-products) | $100k – $150k Est. 🔸 ||
 || [Backend Engineer (Brokerage Operations)](https://angel.co/company/commonstock/jobs/1271664-backend-engineer-brokerage-operations) | $100k – $150k Est. 🔸 ||
 | [Smile Identity](https://www.smileidentity.com/) | [Software Engineer](https://angel.co/company/smile-identity/jobs/1241018-software-engineer) | $95k – $140k Est. | Software |
+| [Trellis](https://angel.co/company/trellisconnect) | [Software Engineer](https://angel.co/company/trellisconnect/jobs/1243510-software-engineer) | $105k – $160k Est. 🔸 | Data |
