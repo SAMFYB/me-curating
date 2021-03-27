@@ -13,3 +13,9 @@
 | [Pawp](https://pawp.com/) | [Software Engineer, Backend](https://angel.co/company/pawp-pet/jobs/1271805-software-engineer-backend) | $90k – $140k AngelList Est. | Pets |
 | [IEX](https://iextrading.com/) | [Software Engineer](https://angel.co/company/iex/jobs/1254332-software-engineer) | $105k – $145k AngelList Est. | Fintech | No visa |
 | [Opendoor](https://www.opendoor.com/) | [Software Engineer](https://angel.co/company/opendoor/jobs/1253241-software-engineer) | $105k – $145k AngelList Est. | Fintech | No visa |
+| [Invoice2go](https://invoice.2go.com/) | [Software Engineer (Backend), Cashflow](https://angel.co/company/invoice2go/jobs/1159784-software-engineer-backend-cashflow) | $95k – $140k AngelList Est. | E-commerce |
+| [Argo AI](https://www.argo.ai/) | [Software Engineer, Runtime Infrastructure & Tooling](https://angel.co/company/argo-ai/jobs/1180868-software-engineer-runtime-infrastructure-tooling) | $105k – $145k AngelList Est. | AI | No visa |
+|| [Software Engineer, Backend, Data Core (Onsite or Remote)](https://angel.co/company/argo-ai/jobs/1259914-software-engineer-backend-data-core-onsite-or-remote) | $90k – $140k AngelList Est. || No visa |
+|| [Software Engineer, Software Factory](https://angel.co/company/argo-ai/jobs/1265789-software-engineer-software-factory) | $105k – $145k AngelList Est. || No visa |
+|| [Systems Software Engineer, Safety](https://angel.co/company/argo-ai/jobs/1268595-systems-software-engineer-safety) | $105k – $145k AngelList Est. || No visa |
+|| [Software Engineer, Front End, Map Tools](https://angel.co/company/argo-ai/jobs/1268609-software-engineer-front-end-map-tools) | $110k – $135k AngelList Est. || No visa |
