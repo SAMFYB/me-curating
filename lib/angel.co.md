@@ -38,3 +38,4 @@
 || [Backend Engineer (Remote)](https://angel.co/company/deliverr/jobs/1155905-backend-engineer-remote) | $125k – $185k 🔸 ||
 | [Clover Health](https://www.cloverhealth.com/en/) | [Healthcare Data Engineer](https://angel.co/company/clover-health/jobs/1020494-healthcare-data-engineer) | N/A 🔸 | Healthcare |
 || [Software Engineer](https://angel.co/company/clover-health/jobs/1092728-software-engineer) | $105k – $160k Est. ||
+| [Talkdoc](https://www.talkdoc.com/) | [Software Engineer - Full Stack - Remote](https://angel.co/company/talkdoc/jobs/388351-software-engineer-full-stack-remote) | $85k – $135k • 0.75% – 2.25% 🔸 | Healthcare |
