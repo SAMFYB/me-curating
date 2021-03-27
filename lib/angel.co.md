@@ -36,3 +36,5 @@
 | [Deliverr](https://deliverr.com/) | [Front-End Engineer (Remote)](https://angel.co/company/deliverr/jobs/668797-front-end-engineer-remote) | $125k – $175k 🔸 | E-commerce |
 || [Devops Engineer: Infra/Productivity (Remote)](https://angel.co/company/deliverr/jobs/1024313-devops-engineer-infra-productivity-remote) | $115k – $155k Est. 🔸 ||
 || [Backend Engineer (Remote)](https://angel.co/company/deliverr/jobs/1155905-backend-engineer-remote) | $125k – $185k 🔸 ||
+| [Clover Health](https://www.cloverhealth.com/en/) | [Healthcare Data Engineer](https://angel.co/company/clover-health/jobs/1020494-healthcare-data-engineer) | N/A 🔸 | Healthcare |
+|| [Software Engineer](https://angel.co/company/clover-health/jobs/1092728-software-engineer) | $105k – $160k Est. ||
